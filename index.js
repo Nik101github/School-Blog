@@ -1,29 +1,4 @@
-//do stuff here and change css to be aweasomeme and stuff
 
-//quirky dom selector
-
-// const DOMSelectors = {
-//   button: document.getElementById("btn"),
-//   text: document.querySelector("#text"),
-//   point: document.querySelectorAll(".point"), //you use . for classes
-// };
-// console.log(DOMSelectors.button);
-
-// Changing an elements style
-
-// const DOMSelectors = {
-//   button: document.getElementById("btn"),
-//   text: document.querySelector("#text"),
-//   box: document.getElementById("big-black-box"),
-//   points: document.querySelectorAll(".point"),
-// };
-
-// function backgroundAndText(background, text) {
-//   background.style.backgroundColor = "red";
-//   text.innerHTML = "This is now a big red box";
-// }
-
-// backgroundAndText(DOMSelectors.box, DOMSelectors.text);
 
 const DOMSelectors = {
   Album: document.getElementById("title"),
